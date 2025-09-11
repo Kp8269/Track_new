@@ -1,0 +1,27 @@
+{
+  "name": "TrackMate - Safety Tracking App",
+  "short_name": "TrackMate",
+  "description": "Your safety, our priority. Explore with confidence.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.jpg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["safety", "navigation", "utilities"],
+  "lang": "en",
+  "dir": "ltr"
+}
